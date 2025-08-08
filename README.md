@@ -17,7 +17,7 @@ Como Rodar o Projeto
 🚀 Como Rodar o Projeto
 Para visualizar e testar o projeto localmente, siga estes passos:
 
-Clone este repositório para a sua máquina: git clone https://github.com/deivcode/sorteador-amigo-secreto-projeto-alura.git
+Clone este repositório para a sua máquina: git clone https://github.com/deivcode/sorteador-amigo-secreto-projeto-alura
 
 Abra a pasta do projeto.
 
