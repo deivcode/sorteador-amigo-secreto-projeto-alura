@@ -23,7 +23,4 @@ Abra a pasta do projeto.
 
 Clique duas vezes no arquivo index.html para abrir no seu navegador.
 
-Demonstração
-🔗 Demonstração
-Você pode acessar o projeto online através deste link:
-https://deivcode.github.io/sorteador-amigo-secreto-projeto-alura/
+
