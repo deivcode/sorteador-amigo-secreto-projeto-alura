@@ -7,8 +7,6 @@ Este é um projeto de sorteador de amigo secreto, desenvolvido durante o curso d
 
 🤖 Tecnologias Utilizadas:
 HTML5
-JavaScript
-CSS
 
 CSS3
 
